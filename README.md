@@ -1,3 +1,4 @@
-# pormibarrio-im-mobile
-Versión móvil del portal pormibarrio.uy sobre la plataforma ionic.
+# IonicMapsBaseApp
+App base utilizando Ionic y OpenStreetMaps.
+Se puede extender para hacer otras apps que requieran georeferenciar lugares, objectos, etc.
 http://ionicframework.com
